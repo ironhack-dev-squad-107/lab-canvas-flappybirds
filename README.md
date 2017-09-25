@@ -42,7 +42,7 @@ Remember he should have the following properties:
 - `speedX`
 - `speedY`
 - `gravity`
-- `gravitySpeed`
+- `userPull`
 
 And the functions `update` and `newPos` to keep updating its position in every update.
 
